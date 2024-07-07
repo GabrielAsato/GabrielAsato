@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Gabriel Asato
-- 👀 I’m a PhD in Materials Engineering in a career transition process
-- 🌱 I’m currently learning Data Science at Let's Code
+- 👀 I’m a PhD in Materials Engineering
+- 🌱 I completed Data Science course at Let's Code in Nov 23
